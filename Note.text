@@ -1,0 +1,2 @@
+install googlr font: Noto_Serif_Bengali
+install heroUI: npm i @heroui/styles @heroui/react
