@@ -1,2 +1,3 @@
 install googlr font: Noto_Serif_Bengali
 install heroUI: npm i @heroui/styles @heroui/react
+install marquee: npm i react-marquee-text
